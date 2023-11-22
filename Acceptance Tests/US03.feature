@@ -1,8 +1,8 @@
 Feature: Protección de la Red Interna
-Como usuario,
-quiero que el sistema proteja mi red interna con un Firewall
-para prevenir intrusiones no deseadas y proteger mis dispositivos conectados,
-para que mis datos y privacidad estén resguardados y mi red sea segura.
+  Como usuario,
+  quiero que el sistema proteja mi red interna con un Firewall
+  para prevenir intrusiones no deseadas y proteger mis dispositivos conectados,
+  para que mis datos y privacidad estén resguardados y mi red sea segura.
 
 Scenario: Bloqueo de intrusos
 Dado que el sistema está en funcionamiento,
